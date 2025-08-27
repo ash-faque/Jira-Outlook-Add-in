@@ -1,0 +1,19 @@
+C:\Projects\Jira Ticket Creator\bin\Debug\Jira Ticket Creator.dll
+C:\Projects\Jira Ticket Creator\bin\Debug\Jira Ticket Creator.pdb
+C:\Projects\Jira Ticket Creator\bin\Debug\Jira Ticket Creator.dll.manifest
+C:\Projects\Jira Ticket Creator\bin\Debug\Jira Ticket Creator.vsto
+C:\Projects\Jira Ticket Creator\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Projects\Jira Ticket Creator\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Projects\Jira Ticket Creator\obj\Debug\Jira Ticket Creator.csproj.AssemblyReference.cache
+C:\Projects\Jira Ticket Creator\obj\Debug\Jira_Ticket_Creator.Properties.Resources.resources
+C:\Projects\Jira Ticket Creator\obj\Debug\Jira Ticket Creator.csproj.GenerateResource.cache
+C:\Projects\Jira Ticket Creator\obj\Debug\Jira Ticket Creator.csproj.CoreCompileInputs.cache
+C:\Projects\Jira Ticket Creator\obj\Debug\Jira Tic.449E6FFF.Up2Date
+C:\Projects\Jira Ticket Creator\obj\Debug\Jira Ticket Creator.dll
+C:\Projects\Jira Ticket Creator\obj\Debug\Jira Ticket Creator.pdb
+C:\Projects\Jira Ticket Creator\obj\Debug\Jira_Ticket_Creator.JiraPane.resources
+C:\Projects\Jira Ticket Creator\bin\Debug\Atlassian.Jira.dll
+C:\Projects\Jira Ticket Creator\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Jira Ticket Creator\bin\Debug\RestSharp.dll
+C:\Projects\Jira Ticket Creator\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Jira Ticket Creator\bin\Debug\RestSharp.xml
